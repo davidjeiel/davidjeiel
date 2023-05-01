@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/-Behance-053EFF?style=for-the-badge&logoColor=FAFAFA&logo=behance"/>
   </a>
   <a href="https://davidjeiel.com" alt="Site pessoal">
-    <img src="https://img.shields.io/badge/-wordpress-053EFF?style=for-the-badge&logoColor=FAFAFA&logo=wordpress"/>    
+    <img src="https://img.shields.io/badge/-Site-053EFF?style=for-the-badge&logoColor=FAFAFA"/>    
   </a>
 </p>
 
@@ -20,7 +20,9 @@
    </a>
 </p>
 
-Minhas stacks favoritas no momento são React JS com Laravel ou .Net como Backend e SQL ou Firebase no banco de dados, mas provavelmente continuarei atendendo muitos JQuery, Ângular e Wordpress. Afinal, somos pagos para resolver problemas!
+<p>Desenvolver software é meio que uma paixão além de ofício.</p>
+<p>Em minhas horas vagas constantemente estarei por aqui, caçando novidades e coisas incríveis que aparecem.</p>
+<p>Amo este quebra cabeças.</p>
 
 ### Linguagens
 
@@ -50,12 +52,25 @@ Minhas stacks favoritas no momento são React JS com Laravel ou .Net como Backen
 ![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma)
 
 <details>
-  <summary>Detalhes</summary>
-  
+  <summary>Estatísticas do Github</summary>  
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidjeiel&theme=chartreuse-dark&show_icons=true)
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=davidjeiel&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
-
-  <a href="https://github.com/davidjeiel">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidjeiel&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-  </a>
+  ![GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs/?username=davidjeiel&hide=html,Jupyter%20Notebook&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=radical)
 </details>
+
+<details>
+  <summary>Detalhes pessoais</summary>
+  <ul>
+    <li>
+      Minhas stacks favoritas no momento são React JS com Laravel ou .Net como Backend e SQL ou Firebase no banco de dados, mas provavelmente continuarei atendendo muitos JQuery, Ângular e Wordpress. Afinal, somos pagos para resolver problemas!
+    </li>
+    <li>
+      No momento estou me aprofundando nos conhecimentos de Next.js e algumas libs javascript para React
+    </li>
+    <li>
+      A maioria de meus projetos estão em repositórios privados. Trabalho em uma empresa que exige confidencialidade então o que você verá por aqui é o que consigo fazer em meu tempo extra, ou algum teste de conceito das idéias de negócio que tento aplicar.
+    </li>
+  </ul>
+</details>
+
+![Snake](https://raw.githubusercontent.com/davidjeiel/davidjeiel/master/github-snake-dark.svg)
