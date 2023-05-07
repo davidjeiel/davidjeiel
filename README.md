@@ -4,12 +4,12 @@
     <img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:davidjeiel@hotmail.com.br">
-    <img alt="Free Stuff" title="Free gifts for you" src="https://img.shields.io/badge/-hotmail-red?style=for-the-badge&logo=hotmail&logoColor=white"/>
+    <img alt="Hotmail" title="Hotmail" src="https://img.shields.io/badge/-hotmail-red?style=for-the-badge&logo=hotmail&logoColor=white"/>
   </a>  
-  <a href="https://www.behance.net/davidjeiel" alt="Behance">
+  <a href="https://www.behance.net/davidjeiel" alt="Behance" title="Behance">
     <img src="https://img.shields.io/badge/-Behance-053EFF?style=for-the-badge&logoColor=FAFAFA&logo=behance"/>
   </a>
-  <a href="https://davidjeiel.com" alt="Site pessoal">
+  <a href="https://davidjeiel.com" alt="Site pessoal" title="Site pessoal">
     <img src="https://img.shields.io/badge/-Site-053EFF?style=for-the-badge&logoColor=FAFAFA"/>    
   </a>
 </p>
