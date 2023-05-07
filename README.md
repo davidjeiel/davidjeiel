@@ -1,4 +1,4 @@
-# David Jeiel - Solução de problemas
+# Solução de problemas
 <p align="left">
   <a href="https://www.linkedin.com/in/davidjeiel/">
     <img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
